@@ -1,0 +1,16 @@
+insert into Employee(firstname,lastname,email,salary)  values('Harry','Potter','harry.potter@jkrowling.com',250000);
+insert into Employee(firstname,lastname,email,salary)  values('Hermione','Granger','hermione.granger@jkrowling.com',230000);
+insert into Employee(firstname,lastname,email,salary)  values('Ronald','Weasley','ronald.weasley@jkrowling.com',200000);
+insert into Employee(firstname,lastname,email,salary)  values('Ginny','Weasley','ginny.weasley@jkrowling.com',180000);
+insert into Employee(firstname,lastname,email,salary)  values('Lord','Voldemort','lord.voldemort@jkrowling.com',260000);
+insert into Employee(firstname,lastname,email,salary)  values('Albus','Dumbledore','albus.dumbledore@jkrowling.com',240000);
+insert into Employee(firstname,lastname,email,salary)  values('Fred','Weasley','fred.weasley@jkrowling.com',150000);
+insert into Employee(firstname,lastname,email,salary)  values('George','Weasley','george.weasley@jkrowling.com',150000);
+insert into Employee(firstname,lastname,email,salary)  values('James','Potter','james.potter@jkrowling.com',80000);
+insert into Employee(firstname,lastname,email,salary)  values('Lilly','Potter','lilly.potter@jkrowling.com',80000);
+insert into roles(name)values('ADMIN');
+insert into roles(name)values('USER');
+insert into users(username,password)values('glearner1','$2a$12$7ZCplJmJqJV7PBnQnEf7eumtbnz5koby7ekbUhSotSMHqKyKth/PC');
+insert into users(username,password)values('glearner2','$2a$12$7ZCplJmJqJV7PBnQnEf7eumtbnz5koby7ekbUhSotSMHqKyKth/PC');
+insert into usersroles(userid,roleid)values(1,1);
+insert into usersroles(userid,roleid)values(2,2);
