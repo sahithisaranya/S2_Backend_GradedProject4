@@ -34,4 +34,6 @@ public class Employee {
 	
 	@Column(name="salary")
 	private long salary;
+
+	private String department;
 }

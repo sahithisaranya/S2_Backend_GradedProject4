@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GLearning-S2-empMgmtRestSecurity/GLearning-S2-empMgmtRestSecurity.iml" filepath="$PROJECT_DIR$/GLearning-S2-empMgmtRestSecurity/GLearning-S2-empMgmtRestSecurity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/S2_Backend_GradedProject4.iml" filepath="$PROJECT_DIR$/.idea/S2_Backend_GradedProject4.iml" />
+    </modules>
+  </component>
+</project>
